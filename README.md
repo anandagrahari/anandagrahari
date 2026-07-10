@@ -48,7 +48,7 @@ Passionate about building practical projects, learning modern technologies, and 
 
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anandagrahari&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandagrahari&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandagrahari&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
